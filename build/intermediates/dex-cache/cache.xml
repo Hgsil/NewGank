@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_111c7d8c300afceba85c2b52318add94d7b20204\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_81790a664477413a46f52ec894dc2b261106fcf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_748592a4606d7575e6677495efdcda5cde8dfe12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_48edfe85ff93d2b48eb07e497ddc3fd162786f9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_290b7588ce6d339a6cdfd16fcfba317ce47e14dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_3cdcf0e2f230d9f40e9ec8defb4b66d38c74ca5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_8d8dc8db075b757a73fa6e623003c60815793a4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31a74a134f437c5ce8a8a1ef2bc4111f7bfb3e67">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7ef24e499f9d07188a37fb0b333f8bcf7beb6cb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_bfd718faa216e515fe71fe6f6fbe5c6989a17908\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a6196357c5b55c252aad6a58873975d1cad443ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e20aad38e19033bfa87c4fdb7d9f57471bc1c128\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_d4ced5343cdf355d047f772f3e2664dc47f6b820\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7729d96a3eea368ee6cf74f884ac8dc9b7655cad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36f84a21b3c30c4d94254b03afc7967a9d12385b">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1b9b98f414a9b1f27659bdda5f895d5e732d21a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_91cf134aa2f12e25295519e6642c3a4354660e53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_f2f7e37719b36f667e362f98c2bfca16ba05b031\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_0bce1e7985a6cbb1348f3038672d5ef6eba1e14f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7c9026bf511fbfd02a62a3b6d9fed4a351ca3b01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NewGank\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="E:\Android\NewGank\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_f50ba3a4d1eac781a04e5afc2e2a2fea85d02051\classes.dex" />
+    </item>
+
+</items>
